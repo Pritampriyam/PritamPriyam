@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I'm Pritam Kumar 👋  <br><br>I'm a Full-Stack Developer and B.Tech Computer Science (AI) student passionate about building real-world, scalable web applications.<br><br>💻 Tech Stack:<br>- Frontend: React, HTML, CSS, Tailwind CSS  <br>- Backend: Node.js, Express.js, REST APIs  <br>- Database: MongoDB, MySQL  <br>- Tools: Git, GitHub, VS Code  <br><br>🚀 What I Do:<br>- Build full-stack applications with clean architecture  <br>- Work on real-world projects like AI-based platforms and role-based systems  <br>- Solve Data Structures & Algorithms problems consistently  <br><br>📊 Achievements:<br>- Solved 1500+ DSA problems (LeetCode, CodeChef, GeeksforGeeks)  <br>- CodeChef 2★ rating (Max 1505)  <br>- 500+ day coding streak  <br>- Microsoft Certified: Azure Fundamentals  <br><br>🎯 Current Focus:<br>- Improving problem-solving and system design skills  <br>- Building impactful full-stack projects  <br>- Preparing for software development internships  <br><br>📫 Open to:<br>- Internship opportunities  <br>- Collaboration on interesting projects  <br>- Learning and contributing to real-world applications  <br><br>Let's build something amazing together 🚀
+Full-Stack Developer and B.Tech CSE (AI) student passionate about building real-world applications.
+
+Skilled in React, Node.js, MongoDB, and REST APIs.  
+Solved 1500+ DSA problems and actively improving problem-solving skills.  
+
+Currently looking for internship opportunities 🚀
 
 
 ## 🌐 Socials:
